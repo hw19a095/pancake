@@ -7,7 +7,7 @@
 - オムライス
 - ラーメン
 
-##好きなアニメ
+## 好きなアニメ
 
 - STEINS;GATE
 - PSYCHO-PASS
